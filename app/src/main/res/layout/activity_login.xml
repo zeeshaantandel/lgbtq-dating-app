@@ -86,6 +86,7 @@
                     android:layout_gravity="center"
                     android:layout_marginTop="30dp"
                     android:background="@drawable/buttonbg"
+
                     android:text="LOG IN"
                     android:textSize="15sp">
                 </Button>
